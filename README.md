@@ -1,5 +1,5 @@
-# OldZUZUNZASwf
-you can access UniverseAPX's SWF Branch by typing universe.127.0.0.1.nip.io/SWF.
+# 구전자게임 파일
+UniverseAPX에서 해당 브랜치에 접속할 수 있습니다.
 
 > [!CAUTION]
 > RUNNING THIS IS NOT RECOMMENDED! 
